@@ -1,7 +1,6 @@
 #import <Foundation/Foundation.h>
 
 #import <Cordova/CDV.h>
-#import <UIKit/UIKit.h>
 #import "CameraViewController.h"
 
 
