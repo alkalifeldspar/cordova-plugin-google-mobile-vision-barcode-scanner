@@ -1,4 +1,4 @@
-@import UIKit;
+// @import UIKit;
 
 // View controller demonstraing how to use the barcode detector with the AVFoundation
 // video pipeline.
